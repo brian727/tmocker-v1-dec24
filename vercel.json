@@ -21,6 +21,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "${VERCEL_URL}",
+        "ASSET_URL": "https://${VERCEL_URL}",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
