@@ -52,8 +52,8 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://tmockerv1-brian727s-projects.vercel.app/'),
-    'asset_url' => env('ASSET_URL', 'https://tmockerv1-brian727s-projects.vercel.app/'),
+    'url' => env('APP_URL', 'https://tmockerv1-rnbdp24q3-brian727s-projects.vercel.app'),
+    'asset_url' => env('ASSET_URL', 'https://tmockerv1-rnbdp24q3-brian727s-projects.vercel.app'),
     'force_https' => true,
 
     /*
